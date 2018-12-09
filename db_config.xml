@@ -1,0 +1,7 @@
+<config>
+    <mysql_dsn>mysql:host=localhost;dbname=crud_php;charset=utf8</mysql_dsn>
+    <sqlite_dsn></sqlite_dsn>
+    <driver>2</driver> <!-- SQLITE = 1, MYSQL = 2 -->
+    <user>user</user>
+    <pass>password</pass>
+</config>

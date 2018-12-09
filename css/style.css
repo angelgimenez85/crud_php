@@ -1,0 +1,33 @@
+body {
+
+}
+.col-md-4 {
+    background-color: #eceeef;
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
+
+#card-element-form {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container-fluid {
+    height: auto;
+}
+
+.jumbotron {
+    margin-top: 10px;
+    padding: 10px 20px 10px 20px;
+}
+
+#titulo {
+    float: right;
+}
+
+.pagination {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    margin-bottom: 20px;
+}
